@@ -3,23 +3,19 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 public class main {
-    private static Map<String[], Integer[]> students = new LinkedHashMap<>();
+    private static ArrayList<String[]> students = new ArrayList<>();
 
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner input = new Scanner(new File("stu.txt"));
-        while(input.hasNext()) {
-            String[] sNames = {input.nextLine(), input.nextLine()}; // name, grade
-            Integer[] prefs = {input.nextInt(), input.nextInt(), input.nextInt()}; // the 3 prefs
-            System.out.println(sNames[0] + " " + sNames[1]);
-            students.put(sNames, prefs);
-            input.nextLine(); // skips formatting line
-            try {
-                input.nextLine(); // skips formatting line
-            } catch (NoSuchElementException e) {
-                System.out.print("eof");
-            }
+        Scanner input = new Scanner(new File("mockData.txt"));
+        while (input.hasNext()) {
+            //                 name            , grade           , prefs------------------------------------
+            String[] sNames = {input.nextLine(), input.nextLine(), input.next(), input.next(), input.next()};
+            students.add(sNames);
+            input.nextLine(); // skips new line
+            input.nextLine();
         }
-        for(int i = 0; i < students.size(); i++)
-        System.out.println(students.get(i));
+        for (int i = 0; i < students.size(); i++) {
+            System.out.println(students.get(i)[1]);
+        }
     }
 }

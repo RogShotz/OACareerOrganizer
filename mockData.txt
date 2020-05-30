@@ -1,24 +1,24 @@
 Helge
 Sophomore
-1
+Army
 1
 1
 
 Tymon
 pede
-2
+Police
 2
 2
 
 Towney
 Sophomore
-3
+Police
 3
 3
 
 Virgie
 praesent
-4
+Doctor
 4
 4
 
@@ -30,7 +30,7 @@ pede
 
 Nicholas
 Sophomore
-6
+Army
 6
 6
 
@@ -78,7 +78,7 @@ dolor
 
 Miof
 Sophomore
-14
+Army
 14
 14
 
@@ -120,7 +120,7 @@ nisi
 
 Charis
 Sophomore
-21
+Doctor
 21
 21
 
@@ -150,7 +150,7 @@ ante
 
 Cassandry
 Sophomore
-26
+Doctor
 26
 26
 
@@ -186,7 +186,7 @@ vel
 
 Herbert
 Sophomore
-32
+Doctor
 32
 32
 
@@ -234,7 +234,7 @@ ligula
 
 Paxton
 Sophomore
-40
+Police
 40
 40
 
@@ -294,7 +294,7 @@ quis
 
 Mano
 Sophomore
-50
+Police
 50
 50
 
@@ -336,7 +336,7 @@ ornare
 
 Shirl
 Sophomore
-57
+Police
 57
 57
 
@@ -372,7 +372,7 @@ ut
 
 Mariya
 Sophomore
-63
+Police
 63
 63
 
@@ -426,7 +426,7 @@ ipsum
 
 Deanne
 Sophomore
-72
+Army
 72
 72
 
@@ -456,7 +456,7 @@ id
 
 Merrie
 Sophomore
-77
+Police
 77
 77
 
@@ -480,7 +480,7 @@ posuere
 
 Gearard
 Sophomore
-81
+Police
 81
 81
 
@@ -498,13 +498,13 @@ elit
 
 Serene
 Sophomore
-84
+Army
 84
 84
 
 Maxine
 Sophomore
-85
+Police
 85
 85
 
@@ -528,7 +528,7 @@ fringilla
 
 Gearalt
 Sophomore
-89
+Police
 89
 89
 
@@ -558,7 +558,7 @@ aenean
 
 Farrand
 Sophomore
-94
+Doctor
 94
 94
 
@@ -594,7 +594,7 @@ ut
 
 Brockie
 Sophomore
-100
+Navy
 100
 100
 

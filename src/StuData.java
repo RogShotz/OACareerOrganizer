@@ -17,6 +17,31 @@ public class StuData { // for all student data functions
 
     }
 
+    public static String[] getStudent (int index) {
+        return students.get(index);
+    }
+
+    public static String[] getStudent (int index, String grade) throws IOException {
+        Scanner input = new Scanner(new File(grade + "s.txt"));
+        for(int i = 0; i < index; i++) {
+            for(int j = 0; j < 6; j++) { // +1 for the extra newline
+                input.nextLine();
+            }
+        }
+
+        String[] student = {input.nextLine(), input.nextLine(), input.nextLine(), input.next(), input.next()};
+
+
+
+        return student;
+    }
+
+    public static int getLength(String grade){
+        File file = new File(grade + "s.txt");
+
+        return (int) ((file.length() -1) / 6 )/ 5; // /6 for amount of groups, /5 for amount of students
+    }
+
     public static void sep() throws IOException {
         BufferedWriter seWriter = new BufferedWriter(new FileWriter("Seniors.txt"));
         BufferedWriter juWriter = new BufferedWriter(new FileWriter("Juniors.txt"));

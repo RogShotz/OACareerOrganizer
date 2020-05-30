@@ -1,114 +1,114 @@
 Helge
 Sophomore
-1
+Army
 1
 1
 
 Towney
 Sophomore
-3
+Police
 3
 3
 
 Nicholas
 Sophomore
-6
+Army
 6
 6
 
 Miof
 Sophomore
-14
+Army
 14
 14
 
 Charis
 Sophomore
-21
+Doctor
 21
 21
 
 Cassandry
 Sophomore
-26
+Doctor
 26
 26
 
 Herbert
 Sophomore
-32
+Doctor
 32
 32
 
 Paxton
 Sophomore
-40
+Police
 40
 40
 
 Mano
 Sophomore
-50
+Police
 50
 50
 
 Shirl
 Sophomore
-57
+Police
 57
 57
 
 Mariya
 Sophomore
-63
+Police
 63
 63
 
 Deanne
 Sophomore
-72
+Army
 72
 72
 
 Merrie
 Sophomore
-77
+Police
 77
 77
 
 Gearard
 Sophomore
-81
+Police
 81
 81
 
 Serene
 Sophomore
-84
+Army
 84
 84
 
 Maxine
 Sophomore
-85
+Police
 85
 85
 
 Gearalt
 Sophomore
-89
+Police
 89
 89
 
 Farrand
 Sophomore
-94
+Doctor
 94
 94
 
 Brockie
 Sophomore
-100
+Navy
 100
 100
 

@@ -8,23 +8,26 @@ public class StuData { // for all student data functions
     public static void load(File fileName) throws FileNotFoundException {
         Scanner input = new Scanner(fileName);
         while (input.hasNext()) {
-            //                 name            , grade           , prefs------------------------------------
-            String[] sNames = {input.nextLine(), input.nextLine(), input.next(), input.next(), input.next()};
-            students.add(sNames);
+            //                  name            , grade           , ss,              prefs------------------------------------
+            String[] stuData = {input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine(),
+                    input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine(), input.nextLine()};
+            students.add(stuData);
             input.nextLine(); // skips new line
-            input.nextLine();
+            for (int i = 0; i < stuData.length; i++) {
+                System.out.println(stuData[i]);
+            }
         }
 
     }
 
-    public static String[] getStudent (int index) {
+    public static String[] getStudent(int index) {
         return students.get(index);
     }
 
-    public static String[] getStudent (int index, String grade) throws IOException {
+    public static String[] getStudent(int index, String grade) throws IOException {
         Scanner input = new Scanner(new File(grade + "s.txt"));
-        for(int i = 0; i < index; i++) {
-            for(int j = 0; j < 6; j++) { // +1 for the extra newline
+        for (int i = 0; i < index; i++) {
+            for (int j = 0; j < 6; j++) { // +1 for the extra newline
                 input.nextLine();
             }
         }
@@ -32,14 +35,13 @@ public class StuData { // for all student data functions
         String[] student = {input.nextLine(), input.nextLine(), input.nextLine(), input.next(), input.next()};
 
 
-
         return student;
     }
 
-    public static int getLength(String grade){
+    public static int getLength(String grade) {
         File file = new File(grade + "s.txt");
 
-        return (int) ((file.length() -1) / 6 )/ 5; // /6 for amount of groups, /5 for amount of students
+        return (int) ((file.length() - 1) / 6) / 5; // /6 for amount of groups, /5 for amount of students
     }
 
     public static void sep() throws IOException {

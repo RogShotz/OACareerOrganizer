@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf82892c-d3ae-4fe1-abd3-507ac5c86900" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +17,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1Z3PiIb1kd9ekMDHrJRQITewJzM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -37,18 +48,6 @@
       <recent name="C:\Users\Luke\Documents\GitHub\OACareerOrganizer" />
       <recent name="C:\Users\rogsh\Documents\GitHub\OACareerOrganizer\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.main">
     <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -72,6 +71,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -82,8 +82,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584064929781</updated>
+      <workItem from="1639806806101" duration="2711000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
@@ -98,59 +102,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="556" y="231" key="#Notifications" timestamp="1584112318156">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="556" y="231" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584112318156" />
-    <state x="682" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590787556095">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="682" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590787556095" />
-    <state x="694" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590786161748">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="694" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590786161748" />
-    <state x="480" y="533" key="FileChooserDialogImpl" timestamp="1587788686030">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="480" y="533" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587788686030" />
-    <state width="1340" height="328" key="GridCell.Tab.0.bottom" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state width="1340" height="328" key="GridCell.Tab.0.center" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state width="1340" height="328" key="GridCell.Tab.0.left" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state width="1340" height="328" key="GridCell.Tab.0.right" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1590805355851">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590805355851" />
-    <state x="435" y="148" key="new project wizard" timestamp="1587788688798">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="435" y="148" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587788688798" />
   </component>
 </project>

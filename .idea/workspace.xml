@@ -40,12 +40,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rogsh\Documents\GitHub\OACareerOrganizer" />
-      <recent name="C:\Users\rogsh\Documents\GitHub\OACareerOrganizer\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Luke\Documents\GitHub\OACareerOrganizer" />
+      <recent name="C:\Users\rogsh\Documents\GitHub\OACareerOrganizer\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rogsh\OneDrive\Documents\GitHub\OACareerOrganizer\src" />
+      <recent name="C:\Users\rogsh\Documents\GitHub\OACareerOrganizer" />
       <recent name="C:\Users\rogsh\Documents\GitHub\OACareerOrganizer\src" />
     </key>
   </component>
@@ -83,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584064929781</updated>
       <workItem from="1639806806101" duration="2711000" />
+      <workItem from="1639810050037" duration="5491000" />
     </task>
     <servers />
   </component>

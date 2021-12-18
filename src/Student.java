@@ -1,6 +1,6 @@
 public class Student {
     private final String name;
-    private static String grade;
+    private final String grade;
     private final String ss; //spartan seminar teacher
     private final String[] prefs = new String[6]; //preferred classes
 
@@ -12,7 +12,7 @@ public class Student {
             this.prefs[i] = prefs[i];
     }
 
-    public static String getGrade() {
+    public String getGrade() {
         return grade;
     }
 
